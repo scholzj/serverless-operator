@@ -15,8 +15,8 @@ require (
 	github.com/operator-framework/operator-lifecycle-manager v0.17.1-0.20210415175807-cdf51cddb619
 	github.com/prometheus-operator/prometheus-operator/pkg/apis/monitoring v0.45.0
 	github.com/prometheus-operator/prometheus-operator/pkg/client v0.45.0
-	github.com/prometheus/client_golang v1.9.0
-	github.com/prometheus/common v0.19.0
+	github.com/prometheus/client_golang v1.11.1
+	github.com/prometheus/common v0.26.0
 	github.com/spf13/pflag v1.0.5
 	go.uber.org/zap v1.16.0
 	k8s.io/api v0.20.2
